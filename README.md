@@ -27,6 +27,7 @@ and tips
 - [to setup developer mode and usb debugging](https://github.com/aimindseye/hisense-a9/blob/main/devmodeusbdebug.md)
 - [to unlock bootloader](https://github.com/aimindseye/hisense-a9/blob/main/unlockbootloader.md)
 - [to root](https://github.com/aimindseye/hisense-a9/blob/main/rootphone.md) Make sure that the phone is on First Release or Last Release, as the boot image are only available for those releases only. If you can't update to last version or flash stock rom, then you will have to extract boot.img from your phone before trying to root the phone.
+- [bootloop recovery](./bootloop-recovery.md) What to do if the phone bootloops after patching `boot.img` (e.g. from using an untested Magisk version, or skipping the vbmeta/dual-slot flash steps).
 - [update to android/lineage gsi](https://github.com/aimindseye/hisense-a9/blob/main/updateandroidgsi.md)
 - [flash to stock rom](https://github.com/aimindseye/hisense-a9/blob/main/flashstockrom.md)
 - [backup & restore phone](https://github.com/aimindseye/hisense-a9/blob/main/backuprestore.md) - Instructions using [BKerler EDL tool](https://github.com/bkerler/edl) 
